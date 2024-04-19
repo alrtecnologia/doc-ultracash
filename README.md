@@ -65,9 +65,6 @@ Esta página contém informações sobre as diferentes versões lançadas do Pro
 19. **[Tela de Contas a Receber](#tarefa-tela-de-contas-a-receber)**
     - Corrigido o layout da tela de contas a receber.
 
----
-
-Espero que agora todas as tarefas estejam incluídas conforme o necessário!
 
 # Versão Anterior
 
