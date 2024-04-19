@@ -215,9 +215,32 @@ Esta página contém informações sobre as diferentes versões lançadas do Pro
 | **Base:** Ultracash |
 | **Responsável:** Andreina Oliveira |
 
+---
+### Tela de Devolução de Cliente
 
-# Licença
+1. **Criar Campo Checkbox para Devolução Seletiva:**
+   - Um campo de checkbox foi adicionado, permitindo ao cliente selecionar todos ou itens específicos para devolução.
 
-Este projeto é licenciado sob a [Licença MIT](https://github.com/seu-usuario/projeto-xyz/blob/main/LICENSE).
+2. **Corrigir Erro de SQL ao Gravar Devolução:**
+   - O erro de SQL que ocorria ao tentar gravar a devolução foi resolvido.
 
-Posso ajudar com mais alguma coisa?
+3. **Permitir Digitação na Coluna Quantidade:**
+   - Agora é possível digitar diretamente na coluna de quantidade, sem a necessidade de clicar previamente.
+
+---
+
+### Problemas com Botões na Pesquisa de Produto
+
+- **Data de Registro:** 16/04/2024
+- **Tipo de Tarefa:** Erro
+- **Prioridade:** Alta
+- **Descrição:** Os botões de histórico de compras e dados complementares estavam ocultos na pesquisa de produto, causando dificuldades na visualização e acesso a essas informações. O problema foi corrigido e agora os botões estão visíveis e acessíveis conforme esperado.
+
+| Tabela de Informações |
+|-----------------------|
+| **Caminho:** Abrir a tela de cadastro de produto / Clicar em pesquisar / Selecionar qualquer produto |
+| **Tipo de Tarefa:** Erro |
+| **Localização:** 9Tec Coité |
+| **Base:** Ultracash |
+| **Responsável:** Emérson - 9tec |
+| **Links de Referência:** [Imagem 1](https://drive.google.com/open?id=1HXy9o6bRqaNJOqW-8DlA8Dv5_R_Tp3XP), [Imagem 2](https://drive.google.com/open?id=17jt_uZsR1lpRZDhV2Yr3rKjFNv45Wn21) |
