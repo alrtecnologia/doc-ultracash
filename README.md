@@ -244,3 +244,117 @@ Esta página contém informações sobre as diferentes versões lançadas do Pro
 | **Base:** Ultracash |
 | **Responsável:** Emérson - 9tec |
 | **Links de Referência:** [Imagem 1](https://drive.google.com/open?id=1HXy9o6bRqaNJOqW-8DlA8Dv5_R_Tp3XP), [Imagem 2](https://drive.google.com/open?id=17jt_uZsR1lpRZDhV2Yr3rKjFNv45Wn21) |
+
+---
+
+### Tarefa: Enviar Orçamento por E-mail
+
+- **Data de Registro:** 08/03/2024
+- **Tipo de Tarefa:** Erro
+- **Prioridade:** Média
+- **Descrição:** Anteriormente, ao tentar enviar um orçamento por e-mail, ocorria um erro e o e-mail não era enviado.
+- **Status:** Concluída
+
+| Tabela de Informações |
+|-----------------------|
+| **Caminho:** Saídas > Orçamento > Iniciar um Orçamento > Clicar em Salvar Orçamento > Aparece a mensagem: "Deseja enviar recibo por e-mail?" > Clicar em Sim e digitar o e-mail de destino > Clicar em OK, e aparece o erro. |
+| **Tipo de Tarefa:** Erro |
+| **Localização:** Rebeca - Cansanção |
+| **Base:** Ultracash |
+| **Responsável:** Rebeca Dias |
+| **Link do Arquivo:** [Link](https://drive.google.com/open?id=10rR5DQs4Cg_OQ1eUzlIh1bQ-Tr1eJ7em) |
+
+---
+
+### Tarefa: Tela de Busca de Orçamento
+
+- **Data de Registro:** 15/03/2024
+- **Tipo de Tarefa:** Funcionalidade
+- **Prioridade:** Urgente
+- **Descrição:** Anteriormente, na busca de orçamento a partir da tela de vendas, a tela estava desorganizada, com botões sobrepondo os orçamentos.
+- **Status:** Concluída
+
+| Tabela de Informações |
+|-----------------------|
+| **Caminho:** Na tela de venda - Clica em F3 |
+| **Tipo de Tarefa:** Funcionalidade |
+| **Localização:** Emanoel Equipadora - Cansanção |
+| **Base:** Ultracash |
+| **Responsável:** Andreina Oliveira |
+| **Link do Arquivo:** [Link](https://drive.google.com/open?id=1yAgQVhM1xK_SE0yJQNQKJSWCHSu9gU4o) |
+
+---
+
+### Tarefa: Alterar Vendedor na Tela de Vendas
+
+- **Data de Registro:** 15/03/2024
+- **Tipo de Tarefa:** Erro
+- **Prioridade:** Média
+- **Descrição:** Anteriormente, na tela de alterar vendedor, os botões estavam sobrepondo outro campo.
+- **Status:** Concluída
+
+| Tabela de Informações |
+|-----------------------|
+| **Caminho:** Na tela de vendas, clicar em "Alterar Vendedor" ou pressionar "ALT + V" |
+| **Tipo de Tarefa:** Erro |
+| **Localização:** ALR Tecnologia |
+| **Base:** Ultracash |
+| **Responsável:** Andreina Oliveira |
+| **Link do Arquivo:** [Link](https://drive.google.com/open?id=1B_D4627dbZExXQQBLBMsTi0-CLNG36D6) |
+| **Observação:** Layout da tela corrigido |
+
+
+---
+
+### Tarefa: Selecionar Fornecedor no Cadastro de Produto
+
+- **Data de Registro:** 15/03/2024
+- **Tipo de Tarefa:** Erro
+- **Prioridade:** Baixa
+- **Descrição:** Anteriormente, na tela de cadastro de produto, os botões estavam sobrepostos uns aos outros no campo fornecedor.
+- **Status:** Concluída
+
+| Tabela de Informações |
+|-----------------------|
+| **Caminho:** Produto - Campo "Fornecedor". Para informar, utilize a seta para cima. |
+| **Tipo de Tarefa:** Erro |
+| **Localização:** ALR Tecnologia - Cansanção |
+| **Base:** Ultracash |
+| **Responsável:** Andreina Oliveira |
+| **Link do Arquivo:** [Link](https://drive.google.com/open?id=1QiXfHa_0tvHcKjYFMjLFi0lYhOe5_CBc) |
+
+
+---
+
+### Cadastro de Kits
+
+1. **Corrigir Mensagem de Erro ao Adicionar Kit na Venda:**
+   - Foi corrigida a mensagem de erro que ocorria ao tentar adicionar um kit na tela de vendas, considerando que os produtos estavam ativos.
+
+2. **Adicionar Opção de Inativar Kit na Tela de Pesquisa:**
+   - Na tela de pesquisa de kits, foi incluída a opção de filtrar por ativos e inativos. Além disso, foi adicionada a funcionalidade de inativar um kit ao clicar com o botão direito e selecionar "Inativar Kit".
+---
+
+### Cadastro de Fornecedores
+
+1. **Ajustar Padrão de Filtro na Pesquisa:**
+   - Na tela de pesquisa de fornecedores, foi alterado o padrão de filtro para que a opção "Exclusivo por Código" não esteja mais selecionada por padrão. Isso evita erros ao tentar pesquisar.
+
+---
+
+### Tarefa: Tela de Contas a Receber
+
+- **Data de Registro:** 05/03/2024
+- **Tipo de Tarefa:** Erro
+- **Prioridade:** Média
+- **Descrição:** Anteriormente, na tela de contas a receber, em monitores menores, o sistema não estava se ajustando corretamente e estava cobrindo o campo de espécie.
+- **Status:** Concluída
+
+| Tabela de Informações |
+|-----------------------|
+| **Caminho:** Financeiro > Contas a Receber > Baixa de Títulos |
+| **Tipo de Tarefa:** Erro |
+| **Localização:** Supermercado São Luis - Cansanção |
+| **Base:** Ultracash |
+| **Responsável:** Andreina Oliveira |
+| **Observação:** Ajustes realizados para correção do layout |
