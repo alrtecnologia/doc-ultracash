@@ -5,21 +5,69 @@ Esta página contém informações sobre as diferentes versões lançadas do Pro
 
 # Versão Atual: UltraCash 1.9.8 r26
 
-- **Data de Lançamento:** 12 de abril de 2024
-- **Notas de Lançamento:**
+- ### **Data de Lançamento:** 20 de abril de 2024
+- ### **Notas de Lançamento - UltraCash 1.9.8 r26**
 
 1. **[Atalho "ALT + A" corrigido](#tarefa-atalho-alt--a)**
+   - O atalho "ALT + A" para alterar o cliente na tela de venda foi corrigido e agora funciona conforme o esperado.
+
 2. **[Tela de Cadastro de Produto - Campo NCM ajustado](#tarefa-tela-de-cadastro-de-produto---campo-ncm)**
+   - O campo NCM na tela de cadastro de produto foi ajustado para exibir corretamente o número do NCM.
+
 3. **[Relatório de Contas a Pagar exibindo observações corretamente](#tarefa-relatório-de-contas-a-pagar)**
+   - As observações no Relatório de Contas a Pagar estão sendo exibidas corretamente agora.
+
 4. **[Tela de CT-e ajustada para se adaptar ao tamanho do monitor](#tarefa-tela-de-ct-e)**
+   - A tela de CT-e agora se ajusta adequadamente ao tamanho do monitor e grava o último ajuste feito.
+
 5. **[Gerenciador de Backup agora permite abrir mais de um por computador](#tarefa-gerenciador-de-backup)**
+   - Agora é possível abrir mais de um Gerenciador de Backup por computador.
+
 6. **[Botão de Salvar na Tela de Cadastro de Produto realocado](#tarefa-botão-de-salvar-na-tela-de-cadastro-de-produto)**
+   - O botão de salvar na tela de cadastro de produto foi realocado para evitar sobreposição com outros elementos.
+
 7. **[Melhoria na Tela de Cadastro de Fornecedor](#tarefa-melhoria-na-tela-de-cadastro-de-fornecedor)**
+   - Corrigido o erro que exibia uma mensagem em inglês ao marcar a opção "Exclusivo por Código" na tela de cadastro de fornecedor.
+
 8. **[Correção na Geração de Crédito SPED Contribuições para Energia](#tarefa-geração-de-crédito-sped-cont-sisal-gomes)**
+   - Corrigido o problema na geração de crédito para PIS e COFINS na entrada fiscal de "Energia" no SPED Contribuições.
+
 9. **[Correção na Devolução de Cliente gerando saldo de vale compras em todas as filiais](#tarefa-devolução-de-cliente)**
+   - Agora a devolução de cliente gera saldo de vale compras apenas na filial onde a devolução foi feita.
+
 10. **[Correção na Impressão de Devolução com valores divergentes](#tarefa-impressão-de-devolução)**
+    - Corrigido o problema que causava valores divergentes na impressão da devolução com despesas.
 
+11. **[Tela de Devolução de Cliente](#tarefa-tela-de-devolução-de-cliente)**
+    - Foram realizadas várias melhorias e correções na tela de devolução de cliente.
 
+12. **[Problemas com Botões na Pesquisa de Produto](#tarefa-problemas-com-botões-na-pesquisa-de-produto)**
+    - Os botões na pesquisa de produto foram ajustados para melhor visualização e acesso.
+
+13. **[Enviar Orçamento por E-mail](#tarefa-enviar-orçamento-por-e-mail)**
+    - Corrigido o erro ao enviar orçamentos por e-mail.
+
+14. **[Tela de Busca de Orçamento](#tarefa-tela-de-busca-de-orçamento)**
+    - A tela de busca de orçamento foi organizada corretamente.
+
+15. **[Alterar Vendedor na Tela de Vendas](#tarefa-alterar-vendedor-na-tela-de-vendas)**
+    - Corrigido o layout da tela de alterar vendedor.
+
+16. **[Selecionar Fornecedor no Cadastro de Produto](#tarefa-selecionar-fornecedor-no-cadastro-de-produto)**
+    - A seleção de fornecedor no cadastro de produto foi ajustada para melhor visualização.
+
+17. **[Cadastro de Kits](#tarefa-cadastro-de-kits)**
+    - Foram realizadas melhorias e correções no cadastro de kits.
+
+18. **[Cadastro de Fornecedores](#tarefa-cadastro-de-fornecedores)**
+    - Foi ajustado o padrão de filtro na pesquisa de fornecedores.
+
+19. **[Tela de Contas a Receber](#tarefa-tela-de-contas-a-receber)**
+    - Corrigido o layout da tela de contas a receber.
+
+---
+
+Espero que agora todas as tarefas estejam incluídas conforme o necessário!
 
 # Versão Anterior
 
