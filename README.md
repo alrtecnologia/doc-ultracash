@@ -3,7 +3,7 @@
 
 Esta página contém informações sobre as diferentes versões lançadas do Projeto UltraCash, incluindo notas de lançamento, alterações e links para downloads.
 
-# Versão Atual: UltraCash 1.9.8 r26
+# Versão Atual: UltraCash 1.9.8 r27
 
 - ### **Data de Lançamento:** 20 de abril de 2024
 - ### **Notas de Lançamento - UltraCash 1.9.8 r26**
