@@ -6,7 +6,7 @@ Esta página contém informações sobre as diferentes versões lançadas do Pro
 # Versão Atual: UltraCash 1.9.8 r27
 
 - ### **Data de Lançamento:** 20 de abril de 2024
-- ### **Notas de Lançamento - UltraCash 1.9.8 r26**
+- ### **Notas de Lançamento - UltraCash 1.9.8 r27**
 
 1. **[Atalho "ALT + A" corrigido](#tarefa-atalho-alt--a)**
    - O atalho "ALT + A" para alterar o cliente na tela de venda foi corrigido e agora funciona conforme o esperado.
